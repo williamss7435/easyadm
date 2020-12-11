@@ -7,6 +7,9 @@
 <p align="center">
   <img src="uploads/headerV2.jpg"/>
 </p>
+<p align="center">
+  <img src="uploads/easyadm.gif"/>
+</p>
 
 ## Tecnologias
 ```
