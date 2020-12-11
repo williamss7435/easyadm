@@ -5,7 +5,7 @@
 # Easy Adm
 
 <p align="center">
-  <img src="uploads/header.jpg "/>
+  <img src="uploads/headerV2.jpg"/>
 </p>
 
 ## Tecnologias
